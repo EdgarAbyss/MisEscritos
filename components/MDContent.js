@@ -42,7 +42,7 @@ function MDContent({content, backLinks, handleOpenNewContent}) {
 
         <div className="markdown-rendered">
             <Alert severity="info">
-                <AlertTitle>Want to know more?</AlertTitle>
+                <AlertTitle>Hi</AlertTitle>
                 🌱 <strong>Follow</strong> or <strong>DM</strong> me on Twitter at <span><a
                 href="https://twitter.com/tuancm">@tuancm</a></span>
             </Alert>
